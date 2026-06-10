@@ -9,6 +9,12 @@ This repository implements an end-to-end data science process—from ingestion a
 
 ---
 
+## 💾 Dataset Source
+The transactional data evaluated in this project can be accessed at the following link:
+* **Dataset Link:** [https://drive.google.com/file/d/133E0TDrfIjnhwRoGTw9OEozwBXUL38D8/view]
+
+---
+
 ## 📊 Dataset Insights & Schema
 The model evaluates transactional data featuring **5,535,323 total observations** across 10 initial properties:
 
@@ -62,8 +68,8 @@ Models were scored using Area Under the Receiver Operating Characteristic Curve 
 
 ---
 
-## 💻 Technical Prerequisites & Libraries
-The code requires python 3.x environment along with the following standard engineering stack packages:
+## 🛠️ Technical Prerequisites & Libraries
+The code requires a Python 3.x environment along with the following standard engineering stack packages:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
